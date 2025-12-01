@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "rollup": "^4.53.3"
+  },
+  "scripts": {
+    "build": "rollup 14-user-task/index.js --file 14-user-task/dist/bundle.js --format iife",
+    "start": "live-server"
+  }
+}
