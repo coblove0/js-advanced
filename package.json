@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "live-server": "^1.2.2",
     "rollup": "^4.53.3"
   },
   "scripts": {
